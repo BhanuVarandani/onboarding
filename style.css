@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 228, 196, 0.668);
+}
+.box1{
+    height: 80%;
+    width: 23%;
+    background-image: url(https://i.pinimg.com/564x/a1/53/52/a1535271cd3e16639a6713e5fd247c2b.jpg);
+    position: absolute;
+    margin-top: 3%;
+    left: 5%;
+    object-fit: cover;
+    background-position: center;
+    border-radius: 8px;
+}
+.one{
+    color: black;
+    font-size: 17px;
+    position: absolute;
+    margin-top: 2%;
+    left: 21%;
+}
+.two{
+    color: rgba(0, 0, 0, 0.699);
+    font-size: 12px;
+    position: absolute;
+    margin-top: 8%;
+    left: 20%;
+}
+.button1{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 4px 80px;
+    position: absolute;
+    margin-top: 150%;
+    left: 18%;
+}
+.box2{
+    height: 80%;
+    width: 23%;
+    background-image: url(https://i.pinimg.com/564x/a1/53/52/a1535271cd3e16639a6713e5fd247c2b.jpg);
+    position: absolute;
+    margin-top: 7%;
+    left: 33%;
+    object-fit: cover;
+    background-position: center;
+    border-radius: 8px;
+}
+.three{
+    color: black;
+    font-size: 17px;
+    position: absolute;
+    margin-top: 2%;
+    left: 21%;
+}
+.four{
+    color: rgba(0, 0, 0, 0.699);
+    font-size: 12px;
+    position: absolute;
+    margin-top: 8%;
+    left: 20%;
+}
+.button2{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 4px 80px;
+    position: absolute;
+    margin-top: 150%;
+    left: 18%;
+}
+.box3{
+    height: 80%;
+    width: 23%;
+    background-image: url(https://i.pinimg.com/564x/a1/53/52/a1535271cd3e16639a6713e5fd247c2b.jpg);
+    position: absolute;
+    margin-top: 3%;
+    left: 60%;
+    object-fit: cover;
+    background-position: center;
+    border-radius: 8px;
+}
+.five{
+    color: black;
+    font-size: 17px;
+    position: absolute;
+    margin-top: 2%;
+    left: 21%;
+}
+.six{
+    color: rgba(0, 0, 0, 0.699);
+    font-size: 12px;
+    position: absolute;
+    margin-top: 8%;
+    left: 20%;
+}
+.button3{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 4px 80px;
+    position: absolute;
+    margin-top: 150%;
+    left: 18%;
+}
